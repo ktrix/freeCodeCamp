@@ -54,7 +54,7 @@
     "test-content": "pnpm test-gen && pnpm test --project test"
   },
   "devDependencies": {
-    "@babel/core": "7.23.7",
+    "@babel/core": "7.29.6",
     "@babel/register": "7.23.7",
     "@freecodecamp/browser-scripts": "workspace:*",
     "@freecodecamp/challenge-builder": "workspace:*",
